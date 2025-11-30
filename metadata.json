@@ -1,0 +1,5 @@
+{
+  "name": "MoodMelody AI",
+  "description": "An intelligent emotion-based music recommendation system that curates playlists based on your current mood using Google Gemini AI.",
+  "requestFramePermissions": []
+}
